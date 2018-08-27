@@ -1,2 +1,2 @@
-kafka-python
-avro
+avro==1.8.1
+kafka-python==1.3.5
